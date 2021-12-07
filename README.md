@@ -30,7 +30,8 @@ I am a graduated Computer Science student. Looking for job opportunities and col
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purveshpatel511&layout=compact)
 
 ## ***Want to checkout my projects***
-<div>
+![dijo](https://snapcraft.io/dijo/embedded?button=black&channels=true&summary=true)
+<!-- <div>
     <iframe src="https://snapcraft.io/dijo/embedded?button=black&channels=true&summary=true" frameborder="0" width="100%" height="380px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
     <iframe src="https://snapcraft.io/pastel/embedded?button=black&channels=true&summary=true" frameborder="0" width="100%" height="470px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
-</div>
+</div> -->
