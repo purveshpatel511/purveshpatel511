@@ -28,10 +28,3 @@ I am a graduated Computer Science student. Looking for job opportunities and col
 ## ***My Github Status***
 ![My github status](https://github-readme-stats.vercel.app/api?username=purveshpatel511&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purveshpatel511&layout=compact)
-
-## ***Want to checkout my projects***
-![dijo](https://snapcraft.io/dijo/embedded?button=black&channels=true&summary=true)
-<!-- <div>
-    <iframe src="https://snapcraft.io/dijo/embedded?button=black&channels=true&summary=true" frameborder="0" width="100%" height="380px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
-    <iframe src="https://snapcraft.io/pastel/embedded?button=black&channels=true&summary=true" frameborder="0" width="100%" height="470px" style="border: 1px solid #CCC; border-radius: 2px;"></iframe>
-</div> -->
