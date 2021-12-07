@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋, I'm Purvesh Patel.
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=purveshpatel511.repoName) [![GitHub followers](https://img.shields.io/github/followers/purveshpatel511.svg?style=social&label=Follow)](https://github.com/purveshpatel511?tab=followers)<br/>
 
@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <img align="right" width=300px alt="Unicorn" src="./assets/code_think.svg" />
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***A bit about me***
+
+
 - 🔭 I’m currently working on snaps.
 - 🌱 I’m currently learning Rust and snaps.
 - 👯 I’m looking to collaborate on any amazing open-source projects.
